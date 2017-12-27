@@ -1,0 +1,40 @@
+Brackets code editor
+====================
+http://brackets.io/
+
+PSD Website Design Templates
+=============================
+https://freebiesbug.com/psd-freebies/website-template/
+
+Surfers Co. free PSD template for surf shop
+============================================
+https://goo.gl/oaSXIe
+
+Photoshop Free Trial
+=====================
+http://www.adobe.com/products/photoshop/free-trial-download.html
+
+Bootstrap 4 Documentation
+==========================
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+Google Fonts
+=============
+https://fonts.google.com/?query=Raleway&selection.family=Montserrat:400,700|Playfair+Display:400,400i|Raleway:400,600,700
+
+Chrome Extension - Window Resizer
+==================================
+https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en-US
+
+CDNJS - Host for all the popular libraries
+==========================================
+https://cdnjs.com/
+
+Slick Slider - the last carousel you'll ever need
+=================================================
+http://kenwheeler.github.io/slick/
+
+
+Placeholder - Quick & simple image placeholders.
+=================================================
+https://placeholder.com/
